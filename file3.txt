@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 2- change file 3 - branch add_new_file
+=======
+1- change file 3 - branch add_new_file
+>>>>>>> a0f119463affbe37ed183ebf8e2a6e7fea3c4e8c
